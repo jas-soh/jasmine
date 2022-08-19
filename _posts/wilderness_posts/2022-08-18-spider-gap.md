@@ -7,7 +7,7 @@ tags: [wilderness]
 image: lyman_sunrise.jpg
 ---
 
-I backpacked Spider Gap to Lyman Lakes in Glacier Peak Wilderness with two friends. The views were absolutely breathtaking and well worth the effort. </br>
+I backpacked Spider Gap to Lyman Lakes in Glacier Peak Wilderness with two friends. The views were absolutely breathtaking and well worth the effort. <br />
 
 {% include image.html file="spider_meadow.jpg" alt="Spider meadow" caption="About to enter Spider Meadow." width="100%" %}
 
