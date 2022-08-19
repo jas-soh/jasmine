@@ -7,4 +7,4 @@ tags: [cycling]
 image: cc_team_warmup.jpg
 ---
 
-This was my first time ra
+This was my first race at such a high caliber. I raced for a composite team, Amy D. Foundation.
