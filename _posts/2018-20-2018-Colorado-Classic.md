@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jr. Road World Championships"
+title: "Colorado Classic"
 author: "Jasmine Soh"
 categories: cycling
 tags: [cycling]
