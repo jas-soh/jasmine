@@ -3,9 +3,17 @@ layout: default
 title: Home
 ---
 
-{% include image.html file="lyman_sunrise.jpg" alt="lyman sunrise 1" width="200%" %}
+<!-- {% include image.html file="lyman_sunrise.jpg" alt="lyman sunrise 1" width="200%" %} -->
 
 <!-- <img align="left" src="{{site.github.url }}/assets/img/lyman_sunrise.jpg" alt=""> -->
+
+<figure>
+  <a href="https://jekyllrb.com">
+  <img src="{{site.github.url }}/assets/img/lyman_sunrise.jpg" style="max-width: 200px;"
+     alt="Jekyll logo" />
+  </a>
+  <figcaption>This is the home picture</figcaption>
+</figure>
 
 {% for post in paginator.posts %}
   {% include featured-post.html %}
