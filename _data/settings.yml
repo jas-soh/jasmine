@@ -8,9 +8,10 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Cycling',  url: 'cycling'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+# - {name: 'Learning Resources', url: 'resources'}
+# - {name: 'Sample Posts',       url: 'sample-posts'}
+# - {name: 'Documentation',      url: 'documentation'}
+- {name: 'Wilderness',         url: 'wilderness'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
