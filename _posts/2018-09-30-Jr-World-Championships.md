@@ -4,7 +4,9 @@ title: "Jr. Road World Championships"
 author: "Jasmine Soh"
 categories: cycling
 tags: [cycling]
-image: worlds_team.jpg
+image: worlds_tt.jpg
 ---
 
 This one will stay with me forever :)
+
+{% include image.html file="words_team.jpg" alt="worlds team" caption="This is my worlds team" %}
