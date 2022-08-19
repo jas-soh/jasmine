@@ -9,7 +9,7 @@ image: spider_camp_sunrise.jpg
 
 I backpacked Spider Gap to Lyman Lakes in Glacier Peak Wilderness with two friends. The views were absolutely breathtaking and well worth the effort. <br />
 
-{% include image.html file="spider_meadow.jpg" alt="Spider meadow" caption="About to enter Spider Meadow." height="80%" %}
+{% include image.html file="spider_meadow.jpg" alt="Spider meadow" caption="About to enter Spider Meadow." height="30%" %}
 
 {% include image.html file="spider_gap.jpg" alt="Spider gap" caption="Taking a break part way up Spider Gap." %}
 
@@ -24,6 +24,8 @@ I backpacked Spider Gap to Lyman Lakes in Glacier Peak Wilderness with two frien
 {% include image.html file="lyman_camp.jpg" alt="Lyman from the Spider Gap" caption="We had a beautiful view of the mountains from our campsite. It was really cold, and I can't say that I had the best sleep, but at least I was awake to see the sunset then starry night then sunrise." %}
 
 {% include image.html file="lyman_sunrise2.jpg" alt="lyman sunrise 2" caption="Sunrise at Upper Lyman Lakes. I love the colors on the mountains!" %}
+
+{% include image.html file="lyman_sunrise.jpg" alt="lyman sunrise 1" caption="The mountain and my reflection." %}
 
 {% include image.html file="lyman_sunrise3.jpg" alt="lyman sunrise 3" caption="The lake was also beautiful." %}
 
