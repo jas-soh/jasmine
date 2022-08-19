@@ -7,6 +7,6 @@ tags: [cycling]
 image: worlds_tt.jpg
 ---
 
-This one will stay with me forever :)
+My experience racing at Junior Road World Championships is one that will stay with me forever. A lot of hard work was put into qualifying for the national team.  Luckily, motivation was at an all-time high leading into this race; hence, I was mentally in a good place to be training harder than ever before.
 
-{% include image.html file="worlds_team.jpg" alt="worlds team" caption="This is my worlds team" %}
+{% include image.html file="worlds_team.jpg" alt="worlds team" caption="My junior women's worlds team doing a recon of the road race." %}
